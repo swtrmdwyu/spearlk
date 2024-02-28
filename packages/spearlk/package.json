@@ -1,7 +1,7 @@
 {
   "name": "spearlk-components",
   "private": false,
-  "version": "1.0.0",
+  "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -45,6 +45,5 @@
   "license": "ISC",
   "files": [
     "src/components/**/*"
-  ],
-  "gitHead": "e7d7ba9e9f3c072b8a2d38bb43d8e3ea64c4fe7b"
+  ]
 }
